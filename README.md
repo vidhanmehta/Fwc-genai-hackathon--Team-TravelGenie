@@ -1,3 +1,25 @@
+# TravelGenie
+
+TravelGenie is a Next.js web application designed to enhance travel experiences by providing personalized travel recommendations and planning tools. This project is built using modern web technologies and is focused on delivering a fast, responsive, and intuitive user experience.
+
+## Features
+
+- Personalized travel recommendations based on user preferences.
+- Integrated maps for exploring travel destinations.
+- Easy-to-use trip planning tools.
+- User-friendly and responsive design.
+- Fast performance using Next.js and server-side rendering (SSR).
+
+## Technologies Used
+
+- **Next.js** - React framework for server-side rendering and static site generation.
+- **React** - Component-based UI library.
+- **CSS Modules** - Scoped and modular CSS styling.
+- **Axios** - Promise-based HTTP client for API calls.
+- **React Query** - Data fetching and caching for React apps.
+- **Tailwind CSS** - Utility-first CSS framework for styling.
+- **Google Gemini** - Gemini for Personalized travel plan.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
