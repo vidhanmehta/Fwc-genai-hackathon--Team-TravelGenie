@@ -19,24 +19,11 @@ const teamMembers = [
   },
   {
     id: 3,
-    name: 'Swathi S',
+    name: 'Shabiul Hasnain Siddiqui',
     designation: 'Student at AIML Dept',
     image:
-      '/destinations/swathi.jpeg',
-  },
-  {
-    id: 4,
-    name: 'Pankaj Kumar',
-    designation: 'Student at CSE Dept',
-    image:
-      '/destinations/Pankaj.jpeg',
-  },
-  {
-    id:5,
-    name: 'Mohit S',
-    designation : 'Student at AIML Dept',
-    image: '/destinations/mohit.jpg',
-  },
+      '/destinations/shabiul.jpeg',
+  }
 ];
 
 function Team() {
