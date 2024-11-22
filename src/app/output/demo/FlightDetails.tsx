@@ -15,7 +15,7 @@ interface FlightData {
 
 const FlightDetails: React.FC<FlightDetailsProps> = ({ source, destination, departureDate }) => {
   const [flightData, setFlightData] = useState<FlightData[]>([]);
-  const baseUrl = 'https://reduce-soccer-whenever-hello.trycloudflare.com';
+  const baseUrl = 'https://garcia-install-tracy-amanda.trycloudflare.com';
 
   const fetchFlightDetails = async () => {
     try {
