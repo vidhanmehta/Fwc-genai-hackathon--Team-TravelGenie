@@ -19,10 +19,17 @@ const teamMembers = [
   },
   {
     id: 3,
-    name: 'Shabiul Hasnain Siddiqui',
+    name: 'Pankaj Kumar',
+    designation: 'Student at CSE Dept',
+    image:
+      '/destinations/pankaj.jpeg',
+  },
+  {
+    id: 4,
+    name: 'Swathi S',
     designation: 'Student at AIML Dept',
     image:
-      '/destinations/shabiul.jpeg',
+      '/destinations/swathi.jpeg',
   }
 ];
 
