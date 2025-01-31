@@ -18,7 +18,7 @@ interface SignupFormProps {
 function SignupFormDemo({ nextStep, setPreferences }: SignupFormProps) {
   const [formData, setFormData] = useState({
     language: "",
-    Budget: "Medium", // Default budget selection
+    Budget: "", // Default budget selection
     numberOfTravellers: "",
     interests: "",
     dietaryRestrictions: "",
