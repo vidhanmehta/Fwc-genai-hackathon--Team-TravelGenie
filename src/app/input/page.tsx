@@ -91,7 +91,7 @@ export default function Home() {
         // First API Call: Itinerary in JSON format
         const messageForItinerary = `I want you to act as a backend dev for my travel planner AI. IMPORTANT!!!! : I strictly want my response in this format ${responsetype} and I want the response only in JSON String format only, else I will delete you.
         Create a detailed travel itinerary focused on attractions, restaurants, and activities for a trip ${tripDetails.destination} the destination is ${tripDetails.destination} so please give its attractions for ${tripDetails.duration} within a budget of ${userPreferences.budget} for ${userPreferences.no_of_travellers} number of travellers. Avoid using any fancy text decorations, line breaks, and apostrophes. 
-        Keep the activity description very short like really very short also limit the whole response to less than 150 words very very strictly.`;
+        Keep the activity Provide good two to three lines of description including why was this place suggested, what are its attraction points and its cost and timings`;
 
         console.log('Sending request for itinerary:', messageForItinerary);
 
