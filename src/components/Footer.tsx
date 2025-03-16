@@ -7,7 +7,7 @@ function Footer() {
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
           <p className="mb-4">
-            AI Travel Planner is your go-to platform for personalized travel
+            RoamMyWay is your go-to platform for personalized travel
             itineraries. We leverage AI to craft unforgettable travel
             experiences tailored to your preferences and budget.
           </p>
@@ -69,7 +69,7 @@ function Footer() {
               </svg>
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/roam_my_way"
               className="hover:text-white transition-colors duration-300"
               target="_blank"
               rel="noopener noreferrer"
@@ -82,11 +82,12 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
           <p>Karnataka, India</p>
           <p>Bangalore 560068</p>
-          <p>Email: info@aitravelplanner.com</p>
-          <p>Phone: (123) 456-7890</p>
+          <p>Email: b2b@roammyway.in</p>
+          <p>Phone: +91 63762 00925</p>
+          <p>Phone: +91 63759 13360</p>
         </div>
       </div>
-      <p className="text-center text-xs pt-8">© 2024 AI Travel Planner. All rights reserved.</p>
+      <p className="text-center text-xs pt-8">© 2024 RoamMyWay. All rights reserved.</p>
     </footer>
   );
 }
