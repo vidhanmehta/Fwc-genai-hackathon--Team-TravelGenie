@@ -30,7 +30,7 @@ function HeroSection() {
         <p
           className="text-lg md:text-xl text-center text-white font-semibold mt-6 max-w-3xl mx-auto leading-relaxed"
         >
-          Plan your perfect trip with our <strong>AI Travel Planner</strong>. 
+          Plan your perfect trip with our <strong>RoamMyWay</strong>. 
           Whether you&apos;re looking for adventure, relaxation, 
           or cultural experiences, we&apos;ll help you create an 
           unforgettable journey.

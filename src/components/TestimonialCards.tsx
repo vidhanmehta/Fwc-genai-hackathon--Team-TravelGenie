@@ -5,31 +5,31 @@ const travelPlannerTestimonials = [
   {
     quote:
       'The AI Travel Planner made my trip effortless and memorable. It curated the perfect itinerary, and I didn’t have to worry about a thing!',
-    name: 'John Doe',
+    name: 'Rashi sharma',
     title: 'World Traveler',
   },
   {
     quote:
       "Thanks to the personalized recommendations, I discovered hidden gems I would’ve never found on my own. The AI Travel Planner is a game-changer.",
-    name: 'Jane Smith',
+    name: 'Sumith Sigtia',
     title: 'Adventure Seeker',
   },
   {
     quote:
       "Planning a family vacation was never this easy. The AI Travel Planner considered everyone's preferences and created a fun-filled itinerary.",
-    name: 'Emily Johnson',
+    name: 'Preeti Gandhi',
     title: 'Family Vacationer',
   },
   {
     quote:
       'As a solo traveler, I appreciated the detailed plans and safety tips. The AI Travel Planner ensured I had a great time without any hassles.',
-    name: 'Michael Brown',
+    name: 'Manan jain',
     title: 'Solo Traveler',
   },
   {
     quote:
       'The AI Travel Planner’s recommendations for restaurants and activities were spot-on. It made our honeymoon truly special.',
-    name: 'Chris Wilson',
+    name: 'Kalp Jain',
     title: 'Honeymooner',
   },
 ];

@@ -80,8 +80,8 @@ function Footer() {
         </div>
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-          <p>Karnataka, India</p>
-          <p>Bangalore 560068</p>
+          <p>Main office: Bangalore</p>
+          <p>Sub office: Pali</p>
           <p>Email: b2b@roammyway.in</p>
           <p>Phone: +91 63762 00925</p>
           <p>Phone: +91 63759 13360</p>
