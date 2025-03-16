@@ -80,7 +80,7 @@ const ResultsPageContent = () => {
   }, [rawResponse]);
 
   if (!travelData) {
-    return <div className="text-white">Failed to load travel plan data.</div>;
+    return <div className="text-Black">Server Overloaded: Please try after some time. We are Under maintainance.</div>;
   }
 
   return (
